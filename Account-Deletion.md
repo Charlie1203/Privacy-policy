@@ -30,7 +30,7 @@ Phone: 1123216405.
 Support Hours: 24/7.
 5. Privacy and Data Protection
 
-For more information on how we handle your data, please review our Privacy Policy available at [Privacy Policy URL].
+For more information on how we handle your data, please review our Privacy Policy available at https://github.com/Charlie1203/Privacy-policy/blob/main/Privacy-policy.md.
 
 Internet Match Play.
 Bella Vista, Buenos Aires.
